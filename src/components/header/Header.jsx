@@ -1,5 +1,5 @@
 import React from "react";
-import './_Header.scss';
+import './style.scss';
 
 import Logo from '../logo/Logo';
 import Button from '../button/Button';

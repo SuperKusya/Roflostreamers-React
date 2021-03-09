@@ -1,4 +1,4 @@
-import './_styles.scss';
+import './style.scss';
 
 import Header from '../../components/header/Header';
 
