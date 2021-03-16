@@ -1,6 +1,6 @@
 import './style.scss';
 
-import Header from '../../components/header/Header';
+import Header from 'components/header/Header';
 
 function MainContainer() {
     return(

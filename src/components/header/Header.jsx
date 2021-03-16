@@ -2,13 +2,13 @@ import React from "react";
 import './style.scss';
 
 import Logo from '../logo/Logo';
-import Button from '../button/Button';
+import Login from '../login/Login';
 
 function Header() {
     return (
         <div className='header'>
             <Logo />
-            <Button />
+            <Login />
         </div>
     )
 }
